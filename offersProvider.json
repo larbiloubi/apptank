@@ -1,0 +1,432 @@
+{
+    "marocTelecom": {
+        "info": {
+            "website": "https://www.iam.ma",
+            "title": "maroc telecom",
+            "image": "https://upload.wikimedia.org/wikipedia/fr/6/6e/Maroc_telecom_logo.svg",
+            "description": "Maroc Telecom is the brand name of the historical provider of telecom services in Morocco. The company was founded in 1999 and is the oldest in the telecommunications field in Morocco."
+        },
+        "offers": [{
+                "title": "internet 5DH",
+                "amount": 0.5,
+                "section": "internet"
+            },
+            {
+                "title": "internet 10DH",
+                "amount": 1,
+                "section": "internet"
+            },
+            {
+                "title": "internet 20DH",
+                "amount": 2,
+                "section": "internet"
+            },
+            {
+                "title": "internet 50DH",
+                "amount": 5,
+                "section": "internet"
+            },
+            {
+                "title": "recharge 5DH",
+                "amount": 0.5,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 10DH",
+                "amount": 1,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 20DH",
+                "amount": 2,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 50DH",
+                "amount": 5,
+                "section": "recharge"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "phone number",
+            "goal": "phoneNumber"
+        }
+    },
+    "inwi": {
+        "info": {
+            "website": "https://www.inwi.ma",
+            "title": "inwi",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Logo_inwi.svg",
+            "description": "Inwi, is the third operator of mobile - fixed - Internet services in Morocco. It was established in 2010 and is considered a pioneer in this field"
+        },
+        "offers": [{
+                "title": "internet 5DH",
+                "amount": 0.5,
+                "section": "internet"
+            },
+            {
+                "title": "internet 10DH",
+                "amount": 1,
+                "section": "internet"
+            },
+            {
+                "title": "internet 20DH",
+                "amount": 2,
+                "section": "internet"
+            },
+            {
+                "title": "internet 50DH",
+                "amount": 5,
+                "section": "internet"
+            },
+            {
+                "title": "recharge 5DH",
+                "amount": 0.5,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 10DH",
+                "amount": 1,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 20DH",
+                "amount": 2,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 50DH",
+                "amount": 5,
+                "section": "recharge"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "phone number",
+            "goal": "phoneNumber"
+        }
+    },
+    "orange": {
+        "info": {
+            "website": "https://www.orange.ma",
+            "title": "orange",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Orange_logo.svg",
+            "description": "Formerly France Telecom SA as it is a company that provides mobile and internet services. The brand was created in 1994 for Hutchison Telecom's UK mobile service network"
+        },
+        "offers": [{
+                "title": "internet*6 5DH",
+                "amount": 0.5,
+                "section": "internet*6"
+            },
+            {
+                "title": "internet*6 10DH",
+                "amount": 1,
+                "section": "internet*6"
+            },
+            {
+                "title": "internet*6 20DH",
+                "amount": 2,
+                "section": "internet*6"
+            },
+            {
+                "title": "internet*6 30DH",
+                "amount": 3,
+                "section": "internet*6"
+            },
+            {
+                "title": "internet 5DH",
+                "amount": 0.5,
+                "section": "internet"
+            },
+            {
+                "title": "internet 10DH",
+                "amount": 1,
+                "section": "internet"
+            },
+            {
+                "title": "internet 20DH",
+                "amount": 2,
+                "section": "internet"
+            },
+            {
+                "title": "internet 50DH",
+                "amount": 5,
+                "section": "internet"
+            },
+            {
+                "title": "recharge 5DH",
+                "amount": 0.5,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 10DH",
+                "amount": 1,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 20DH",
+                "amount": 2,
+                "section": "recharge"
+            },
+            {
+                "title": "recharge 50DH",
+                "amount": 5,
+                "section": "recharge"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "phone number",
+            "goal": "phoneNumber"
+        }
+    },
+    "apple": {
+        "info": {
+            "website": "https://www.apple.com/",
+            "title": "apple",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+            "description": "Apple Inc. is an American multinational technology company of home appliances, software and hardware over the Internet"
+        },
+        "offers": [{
+                "title": "itunes Giftcard 5$",
+                "amount": 5,
+                "section": "Giftcard"
+            },
+            {
+                "title": "itunes Giftcard 10$",
+                "amount": 10,
+                "section": "Giftcard"
+            },
+            {
+                "title": "itunes Giftcard 15$",
+                "amount": 15,
+                "section": "Giftcard"
+            },
+            {
+                "title": "itunes Giftcard 20$",
+                "amount": 20,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "playstation": {
+        "info": {
+            "website": "https://www.playstation.com/",
+            "title": "playstation",
+            "image": "https://i.pinimg.com/564x/f8/a7/db/f8a7db9c97abd1a361a38a7838e74de9.jpg",
+            "description": "Explore the new generation PlayStation 4 and PS5 consoles - experience immersive gaming with thousands of hit games in every genre to rewrite the rules..."
+        },
+        "offers": [{
+                "title": "PlayStation US 10$",
+                "amount": 10,
+                "section": "Giftcard"
+            },
+            {
+                "title": "PlayStation US 25$",
+                "amount": 25,
+                "section": "Giftcard"
+            },
+            {
+                "title": "PlayStation US 50$",
+                "amount": 50,
+                "section": "Giftcard"
+            },
+            {
+                "title": "PlayStation US 60$",
+                "amount": 60,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "xbox": {
+        "info": {
+            "website": "https://www.xbox.com/",
+            "title": "xbox",
+            "image": "https://i.pinimg.com/564x/58/9b/30/589b307ea7a13db18464eaab241bca4a.jpg",
+            "description": "Experience the new generation of games and entertainment with Xbox. Explore consoles, new and old Xbox games and accessories"
+        },
+        "offers": [{
+                "title": "live gold 1 month",
+                "amount": 9.99,
+                "section": "subscription"
+            },
+            {
+                "title": "live gold 3 months",
+                "amount": 24.99,
+                "section": "subscription"
+            },
+            {
+                "title": "live gold 12 months",
+                "amount": 59.99,
+                "section": "subscription"
+            },
+            {
+                "title": "EA Access 12 month",
+                "amount": 29.99,
+                "section": "subscription"
+            },
+            {
+                "title": "xbox live 25$",
+                "amount": 24.99,
+                "section": "Giftcard"
+            },
+            {
+                "title": "xbox live 50$",
+                "amount": 49.99,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "roblox": {
+        "info": {
+            "website": "https://www.roblox.com/",
+            "title": "roblox",
+            "image": "https://i.pinimg.com/564x/22/1e/73/221e7304b040309cf4928b553f2a956a.jpg",
+            "description": "ROBLOX is an online game available on Android, iOS, PC and Xbox One designed for kids and teens aged 8-18"
+        },
+        "offers": [{
+                "title": "Roblox 10$",
+                "amount": 10,
+                "section": "Giftcard"
+            },
+            {
+                "title": "Roblox 25$",
+                "amount": 25,
+                "section": "Giftcard"
+            },
+            {
+                "title": "Roblox 50$",
+                "amount": 50,
+                "section": "Giftcard"
+            },
+            {
+                "title": "Roblox 100$",
+                "amount": 100,
+                "section": "Giftcard"
+            },
+            {
+                "title": "Roblox 200$",
+                "amount": 200,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "fortnite": {
+        "info": {
+            "website": "https://www.epicgames.com/",
+            "title": "fortnite",
+            "image": "https://i.pinimg.com/564x/09/26/87/09268702f35cd42dc4165ff90318422d.jpg",
+            "description": "Fortnite is an electronic survival video game that was released on July 27, 2017, and it gained high popularity. It works on the PlayStation 4, Xbox One, Microsoft Windows, Mac OS X, iOS, Android, and Nintendo Switch. The number of users has reached 250 million. person around the world."
+        },
+        "offers": [{
+                "title": "2800 V-Bucks",
+                "amount": 25,
+                "section": "Giftcard"
+            },
+            {
+                "title": "5000 V-Bucks",
+                "amount": 40,
+                "section": "Giftcard"
+            },
+            {
+                "title": "13500 V-Bucks",
+                "amount": 100,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "nintendo": {
+        "info": {
+            "website": "https://www.nintendo.com/",
+            "title": "nintendo",
+            "image": "https://i.pinimg.com/564x/e4/aa/24/e4aa24bc6640d5c403d6b3ac7c6cc93a.jpg",
+            "description": "Nintendo Corporation, Ltd. is a multinational corporation founded on September 23, 1889 in Kyoto, Japan by Fusajiro Yamauchi to produce handmade Japanese Hanafuda playing cards. In the middle of the twentieth century"
+        },
+        "offers": [{
+                "title": "eShop 10$ card",
+                "amount": 10,
+                "section": "Giftcard"
+            },
+            {
+                "title": "eShop 20$ card",
+                "amount": 20,
+                "section": "Giftcard"
+            },
+            {
+                "title": "eShop 35$ card",
+                "amount": 35,
+                "section": "Giftcard"
+            },
+            {
+                "title": "eShop 50$ card",
+                "amount": 50,
+                "section": "Giftcard"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    },
+    "spotify": {
+        "info": {
+            "website": "https://www.spotify.com/",
+            "title": "spotify",
+            "image": "https://i.pinimg.com/originals/6b/34/45/6b34453373fbad23140d46fd18203d24.gif",
+            "description": "Spotify is a Swedish commercial music and podcast streaming service founded in 2006 in Sweden and now registered in Luxembourg, providing content protected from record labels, labels and media companies."
+        },
+        "offers": [{
+                "title": "spotify 1 month",
+                "amount": 4.99,
+                "section": "subscription"
+            },
+            {
+                "title": "spotify 3 months",
+                "amount": 14.97,
+                "section": "subscription"
+            },
+            {
+                "title": "spotify 6 months",
+                "amount": 29.99,
+                "section": "subscription"
+            },
+            {
+                "title": "spotify 12 month",
+                "amount": 49.99,
+                "section": "subscription"
+            }
+        ],
+        "input": {
+            "type": "text",
+            "title": "email",
+            "goal": "email"
+        }
+    }
+}
