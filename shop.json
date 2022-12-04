@@ -429,84 +429,39 @@
             "goal": "email"
         }
     },
-        "freeFire": {
-
+        "playstation": {
         "info": {
-
             "website": "https://shop2game.com/app",
-
             "title": "Free Fire",
-
             "image": "https://upload.wikimedia.org/wikipedia/en/c/c5/Logo_of_Garena_Free_Fire.png",
-
-            "description": "Free Fire is played in third person perspective. As in other shooting games, the player can move their character using a joystick and shoot and throw items with the fire button. In-game characters can jump, crawl, and lie down. When on the battlefield, players can use a grenade called a "Gloo Wall" as a cover to avoid damage."
+            "description": "Free Fire is played in third person perspective. As in other shooting games, the player can move their character using a joystick and shoot and throw items with the fire button. In-game characters can jump, crawl, and lie down. "
         },
-
-        "offers": [
-  {
-
+        "offers": [{
                 "title": "50 diamonds",
-
-                "amount": 6.50,
-
+                "amount": 6.53,
                 "section": "diamonds"
-
             },
-            
-
             {
-
                 "title": "100 diamonds",
-
-                "amount": 12.5,
-
+                "amount": 12.36,
                 "section": "diamonds"
-
             },
-            
-
             {
-
                 "title": "210 diamonds",
-
-                "amount": 25,
-
+                "amount": 24.72,
                 "section": "diamonds"
-
             },
-            
-
             {
-
                 "title": "530 diamonds",
-
-                "amount": 62,
-
+                "amount": 60.94,
                 "section": "diamonds"
-
             },
-            
-
-            {
-
-                "title": "2200 diamonds",
-
-                "amount": 240,
-
-                "section": "diamonds"
-
-            }
-
+                   
         ],
-
         "input": {
-
             "type": "text",
-
             "title": "player ID"
-
         }
-
     }
     
 }
