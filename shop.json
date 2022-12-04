@@ -429,7 +429,7 @@
             "goal": "email"
         }
     },
-        "freeFire": {
+        "freefire": {
         "info": {
             "website": "https://shop2game.com/app",
             "title": "Free Fire",
@@ -455,8 +455,7 @@
                 "title": "530 diamonds",
                 "amount": 60.94,
                 "section": "diamonds"
-            }
-                   
+            }          
         ],
         "input": {
             "type": "text",
