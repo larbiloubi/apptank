@@ -2,7 +2,7 @@
     "marocTelecom": {
         "info": {
             "website": "https://www.iam.ma",
-            "title": "maroc telecom 1",
+            "title": "maroc telecom",
             "image": "https://upload.wikimedia.org/wikipedia/fr/6/6e/Maroc_telecom_logo.svg",
             "description": "Maroc Telecom is the brand name of the historical provider of telecom services in Morocco. The company was founded in 1999 and is the oldest in the telecommunications field in Morocco."
         },
@@ -110,7 +110,7 @@
     "orange": {
         "info": {
             "website": "https://www.orange.ma",
-            "title": "orange",
+            "title": "orange MA",
             "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Orange_logo.svg",
             "description": "Formerly France Telecom SA as it is a company that provides mobile and internet services. The brand was created in 1994 for Hutchison Telecom's UK mobile service network"
         },
